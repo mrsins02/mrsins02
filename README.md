@@ -8,7 +8,7 @@
 mrsins02/mrsins02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<figure><embed src="https://wakatime.com/share/@mrsins02/b5ee8b8d-6225-4fc9-9c8b-382a0ba3c342.svg"></embed></figure>
+
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mrsins02&count_private=true&show_icons=true&theme=noctis_minimus)]
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie&theme=noctis_minimus)]
 [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mrsins02)]
