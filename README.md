@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Amin
-- 👀 I’m interested in programming and biology
-- 🌱 Python/Django developer
+
+- 👀 Junior django/python developer, biology student.
 - 📫 How to reach me amin.d.d.y1357@gmail.com
 - <a href="https://www.linkedin.com/in/amin-dehghan-dehnavi-69b620218/">LinkedIn</a>
 - Telegram <a href="https://telegram.me/mrsins02/">@mrsins02</a>
