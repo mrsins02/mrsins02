@@ -1,8 +1,8 @@
 
-- 👀 Django/python developer, biology student.
-- 📫 How to reach me amin.d.d.y1357@gmail.com
-- <a href="https://www.linkedin.com/in/amin-dehghan-dehnavi-69b620218/">LinkedIn</a>
-- Telegram <a href="https://telegram.me/mrsins02/">@mrsins02</a>
+- 👀 Django/python developer, Genetics student.
+- 📫 How to reach me amin.dehghandehnavi@gmail.com
+- <a href="https://www.linkedin.com/in/amindehghandehnavi/">LinkedIn</a>
+- Telegram <a href="https://telegram.me/mrsins02/">@DehghanDehnaviAmin</a>
 <!---
 mrsins02/mrsins02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
