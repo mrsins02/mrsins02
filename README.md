@@ -30,6 +30,7 @@ up-to-date with new technologies.
 ###### Frameworks
 
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/-FastAPI-2C7590?logo=fastapi&logoColor=F29307&style=for-the-badge)
 
 ###### Databases
 
